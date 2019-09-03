@@ -3,7 +3,7 @@
 
 This project was create to study ecosystem of nodejs and your power. It is a simple command line to generate pages, components, and future routers to your react native project.
 
-#Commands
+##Commands
 
 | COMMAND | EFFECT |
 |---------|--------|
